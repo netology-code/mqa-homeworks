@@ -26,7 +26,7 @@
 
 [2.1 - Автоматизация тестирования мобильных приложений](https://github.com/netology-code/mqa-homeworks/tree/main/2.1%20auto)
 
-[2.2 - UIAutomator. Автоматизация тестирования Android](https://github.com/netology-code/mqa-homeworks/tree/main/2.2%20UI%20Automator)
+[2.2 - UIAutomator. Автоматизация тестирования Android](https://github.com/netology-code/mqa-homeworks/blob/main/2.2%20UI%20Automator/2.2.md)
 
 [2.3 - XCUITest. Автоматизация тестирования iOS](https://github.com/netology-code/mqa-homeworks/tree/main/2.3%20XCUITest)
 
