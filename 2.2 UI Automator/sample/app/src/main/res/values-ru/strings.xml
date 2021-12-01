@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UiAutomator</string>
+    <string name="hello_world">Привет UiAutomator!</string>
+    <string name="change_text">Изменить текст</string>
+    <string name="type_something">Введите что-нибудь…</string>
+    <string name="open_activity_and_change_text">Открыть текст в новой активити</string>
+</resources>
