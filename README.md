@@ -12,7 +12,7 @@
 
 [1.1 - Ручное тестирование мобильных приложений. Введение.](https://github.com/netology-code/mqa-homeworks/tree/main/1.1%20intro)
 
-[1.2 - Тестирование iOS-приложений](https://github.com/netology-code/mqa-homeworks/tree/main/1.2%20iOS)
+[1.2 - Тестирование iOS-приложений](https://github.com/netology-code/mqa-homeworks/blob/main/2.3%20XCUITest/2.3.md)
 
 [1.3 - Тестирование Android-приложений](https://github.com/netology-code/mqa-homeworks/tree/main/1.3%20Android)
 
