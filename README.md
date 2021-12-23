@@ -30,8 +30,8 @@
 
 [2.3 - XCUITest. Автоматизация тестирования iOS](https://github.com/netology-code/mqa-homeworks/blob/main/2.3%20XCUITest/2.3.md)
 
-[2.4 - Appium. Кроссплатформенная мобильная автоматизация тестирования](https://github.com/netology-code/mqa-homeworks/tree/main/2.4%20Appium)
+[2.4 - Appium. Кроссплатформенная мобильная автоматизация тестирования](https://github.com/netology-code/mqa-homeworks/blob/main/2.4%20Appium/2.4)
 
-[2.5 - Espresso. Автоматизация тестирования Android](https://github.com/netology-code/mqa-homeworks/tree/main/2.5%20Espresso)
+[2.5 - Espresso. Автоматизация тестирования Android](https://github.com/netology-code/mqa-homeworks/blob/main/2.5%20Espresso/2.5.md)
 
-[2.6 - Espresso. Продвинутая автоматизация тестирования Android](https://github.com/netology-code/mqa-homeworks/tree/main/2.6%20Espresso-2)
+[2.6 - Espresso. Продвинутая автоматизация тестирования Android](https://github.com/netology-code/mqa-homeworks/blob/main/2.6%20Espresso-2/2.6.md)
