@@ -34,7 +34,6 @@
         android:layout_gravity="center_horizontal"
         android:text="@string/change_text" />
 
-
     <Button
         android:id="@+id/buttonActivity"
         style="?android:attr/buttonStyleSmall"

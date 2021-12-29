@@ -22,6 +22,7 @@
 
         <activity android:name=".ShowTextActivity" />
     </application>
+
     <queries>
         <package android:name="ru.netology.testing.uiautomator" />
     </queries>
