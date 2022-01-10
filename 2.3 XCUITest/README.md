@@ -10,7 +10,7 @@
 
 - Установите последнюю версию Xcode из [AppStore](https://apps.apple.com/ru/app/xcode/id497799835).
 
-- Скачайте архив с проектом Netology (**ссылка на архив с проектом**) и разархивируйте.
+- Скачайте архив с проектом Netology [ссылка на архив с проектом](https://github.com/netology-code/mqa-homeworks/blob/main/2.3%20XCUITest/Netology.zip) и разархивируйте.
 
 - Откройте файл `Netology.xcodeproj` и запустите проект с помощью меню Product > Run или сочетания горячих клавиш ⌘+ R.
 
