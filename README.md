@@ -18,7 +18,7 @@
 
 [1.4 - Инструменты для ручного тестирования мобильных приложений](https://github.com/netology-code/mqa-homeworks/blob/main/1.4%20instruments/Update%201.4.md)
 
-[1.5 Инструменты для мобильного тестирования:Снифферы.Настройка и возможности](https://github.com/netology-code/mqa-homeworks/tree/main/1.5%20Sniffer)
+[1.5 - Снифферинг.Настройка и возможности](https://github.com/netology-code/mqa-homeworks/tree/main/1.5%20Sniffer)
 
 [1.6 - Выбор устройств для тестирования](https://github.com/netology-code/mqa-homeworks/blob/main/1.5%20devices/1.5_devices.md)
 
