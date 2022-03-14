@@ -37,3 +37,4 @@
 [2.5 - Espresso. Автоматизация тестирования Android](https://github.com/netology-code/mqa-homeworks/blob/main/2.5%20Espresso/2.5.md)
 
 [2.6 - Espresso. Продвинутая автоматизация тестирования Android](https://github.com/netology-code/mqa-homeworks/blob/main/2.6%20Espresso-2/2.6.md)
+
