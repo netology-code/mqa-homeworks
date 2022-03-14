@@ -16,7 +16,7 @@
 
 [1.3 - Тестирование Android-приложений](https://github.com/netology-code/mqa-homeworks/blob/main/1.3%20Android/1.3.md)
 
-[1.4 - Инструменты для ручного тестирования мобильных приложений]()
+[1.4 - Инструменты для ручного тестирования мобильных приложений](https://github.com/netology-code/mqa-homeworks/blob/main/1.4%20instruments/Update%201.4.md)
 
 [1.5 - Снифферинг.Настройка и возможности](https://github.com/netology-code/mqa-homeworks/blob/main/1.4%20instruments/Update%201.4.md)
 
