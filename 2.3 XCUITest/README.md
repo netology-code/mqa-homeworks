@@ -10,7 +10,7 @@
 
 - Установите последнюю версию Xcode из [AppStore](https://apps.apple.com/ru/app/xcode/id497799835).
 
-- Откройте [папку Netology](./2.3%20XCUITest/Project).
+- Откройте [папку Netology](./Project).
 
 - Откройте файл `Netology.xcodeproj` и запустите проект с помощью меню Product > Run или сочетания горячих клавиш ⌘+ R.
 
