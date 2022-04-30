@@ -33,7 +33,7 @@
 
 Объект тестирования для студентов с iOS: приложение **Гороскопы Mail.ru**
 
-[Everybook в Appstore]https://apps.apple.com/ru/app/%D0%B3%D0%BE%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF/id1188651466)
+[Гороскопы в Appstore](https://apps.apple.com/ru/app/%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9-%D0%B3%D0%BE%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF-%D0%BD%D0%B0-%D0%BA%D0%B0%D0%B6%D0%B4%D1%8B%D0%B9-%D0%B4%D0%B5%D0%BD%D1%8C/id840135049)
 
 Объект тестирования для студентов с Android: приложение **Гороскопы Mail.ru**
 
