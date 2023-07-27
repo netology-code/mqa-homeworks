@@ -11,7 +11,7 @@
 
 ### Инструкция к заданию
 
-1. Скопируйте шаблон таблицы по [ссылке](https://docs.google.com/spreadsheets/d/1B8kvrxyKEs1uFAuFeIyYzVQSElvBGAzaFrnboQH6RL4/edit?usp=sharing).
+1. Скопируйте шаблон таблицы по [ссылке](https://docs.google.com/document/d/1UNTO_GtAS7kLxM8hbalMXmF1Sua-0_TgOOfJCCydZc0/edit?usp=sharing).
 2. В названии файла введите корректное название лекции, ваши фамилию и имя.
 3. Зайдите в «Настройки доступа» и выберите доступ «Просматривать могут все в интернете, у кого есть ссылка». [Ссылка на инструкцию](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop), как предоставить доступ к файлам и папкам на Google Drive.
 4. В таблице прикрепите ссылки на выполненную работу по каждому заданию. Пожалуйста, прикладывайте прямые ссылки на скриншоты.
