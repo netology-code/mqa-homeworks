@@ -9,11 +9,11 @@
 
 ## Блок «Мануальное тестирование мобильных приложений»
 
-[1.1. Ручное тестирование мобильных приложений. Введение.](https://github.com/netology-code/mqa-homeworks/blob/main/1.1%20intro/1.1_intro.md)
+[1.1. Ручное тестирование мобильных приложений. Введение.](https://github.com/netology-code/mqa-homeworks/blob/mqa-video/1.1%20intro/1.1_intro.md)
 
-[1.2. Тестирование iOS-приложений.](https://github.com/netology-code/mqa-homeworks/blob/main/1.2%20iOS/1.2.md)
+[1.2. Тестирование iOS-приложений.](https://github.com/netology-code/mqa-homeworks/blob/mqa-video/1.2%20iOS/1.2.md)
 
-[1.3. Тестирование Android-приложений.](https://github.com/netology-code/mqa-homeworks/blob/main/1.3%20Android/1.3.md)
+[1.3. Тестирование Android-приложений.](https://github.com/netology-code/mqa-homeworks/blob/mqa-video/1.3%20Android/1.3.md)
 
 [1.4. Инструменты для ручного тестирования мобильных приложений.](https://github.com/netology-code/mqa-homeworks/blob/main/1.4%20instruments/Update%201.4.md)
 
