@@ -22,7 +22,7 @@
 
 ## Подготовка к выполнению задания:
 
-1. Установите и настройте Android Debug Bridge (ADB) для выполнения домашнего задания - [ссылка](https://developer.android.com/studio#cmdline-tools).   
+1. Установите и настройте Android Debug Bridge (ADB) для выполнения домашнего задания - [ссылка](https://developer.android.com/tools/releases/platform-tools).   
 
 2. Выполните все необходимые настройки вашего Android девайса для отладки (данный материал есть в занятии "Тестирование Android- приложений" - как включить настройки разработчика).   
 
