@@ -15,13 +15,17 @@
 
 [1.3. Тестирование Android-приложений.](https://github.com/netology-code/mqa-homeworks/blob/mqa-video/1.3%20Android/1.3.md)
 
-[1.4. Инструменты для ручного тестирования мобильных приложений.](https://github.com/netology-code/mqa-homeworks/blob/main/1.4%20instruments/Update%201.4.md)
+[1.4. Виды тестирования в контексте мобильных устройств](https://github.com/netology-code/mqa-homeworks/tree/mqa-video/1.6%20process)
 
-[1.5. Снифферинг. Настройка и возможности.](https://github.com/netology-code/mqa-homeworks/tree/main/1.5%20Sniffer#readme)
+[1.5. Выбор устройств для тестирования.](https://github.com/netology-code/mqa-homeworks/blob/mqa-video/1.5%20devices/1.5_devices.md)
 
-[1.6. Выбор устройств для тестирования.](https://github.com/netology-code/mqa-homeworks/blob/main/1.5%20devices/1.5_devices.md)
+[1.6. Инструменты для ручного тестирования мобильных приложений.](https://github.com/netology-code/mqa-homeworks/blob/mqa-video/1.4%20instruments/Update%201.4.md)
 
-[1.7. Особенности функционального и нефункционального тестирования на мобильных устройствах.](https://github.com/netology-code/mqa-homeworks/tree/main/1.6%20process)
+[1.7. Снифферинг. Настройка и возможности.](https://github.com/netology-code/mqa-homeworks/tree/mqa-video/1.5%20Sniffer#readme)
+
+
+
+
 
 ##  Блок «Автоматизация тестирования мобильных приложений»
 
