@@ -57,7 +57,7 @@ Cсылка на сохраненный log файл с ошибкой в txt ф
 
 ## Задание 3
 
-Проведите анализ стектрейса ошибок ([Crash logs](https://drive.google.com/drive/folders/1C_Qp8SzugD4tB9NtKi1-p3RqqWoiGZt5?usp=sharing)).   
+Проведите анализ стектрейса ошибок ([Crash logs](https://drive.google.com/drive/folders/1TWugoLROQMwPcGBC6wjX4v8r-8jR18db?usp=sharing)).   
 1. Оцените стек вызовов при возникновении ошибки, предположите какой модуль приложения был затронут исходя из логов.   
 2. Какие действия или условия у пользователя его могли вызвать?  
 
