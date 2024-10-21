@@ -31,7 +31,7 @@
 3. Установите тестовое приложение, изучите его функционал.   
 
 - Объект тестирования для студентов с iOS: приложение **Гороскопы Mail.ru** - [Гороскопы в Appstore](https://apps.apple.com/ru/app/%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9-%D0%B3%D0%BE%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF-%D0%BD%D0%B0-%D0%BA%D0%B0%D0%B6%D0%B4%D1%8B%D0%B9-%D0%B4%D0%B5%D0%BD%D1%8C/id840135049)
-- Объект тестирования для студентов с Android: приложение **Гороскопы Mail.ru**-[Гороскопы в GooglePlay](https://play.google.com/store/apps/details?id=ru.mail.horo.android)
+- Объект тестирования для студентов с Android: приложение **Гороскопы Mail.ru**-[Гороскопы в GooglePlay](https://trashbox.ru/link/horoscopes-mail.ru-android )
 
 
 ## Задание 1 
