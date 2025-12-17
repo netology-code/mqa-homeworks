@@ -26,7 +26,7 @@ jobs:
       run: ./gradlew build
       
   test:
-    runs-on: macos-13
+    runs-on: macos-15-intel
     steps:
     - uses: actions/checkout@v3
     - name: set up JDK 17
